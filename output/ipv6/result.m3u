@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iwuguo/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-25 22:14:25
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-26 01:28:18
 url
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="🈳无结果频道",CCTV-2
 url
@@ -96,8 +96,6 @@ url
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CN卡通.png" group-title="🈳无结果频道",CN卡通
 url
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🈳无结果频道",优漫卡通
-url
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🈳无结果频道",金鹰卡通
 url
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="🈳无结果频道",24H国漫热播
 url
