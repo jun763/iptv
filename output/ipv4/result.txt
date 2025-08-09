@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-08-09 01:28:44,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-09 13:29:00,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5+,http://121.17.146.188:50003/hls/21/index.m3u8
-CCTV-12,http://121.17.146.188:50003/hls/12/index.m3u8
-CCTV-14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
@@ -14,26 +12,28 @@ CCTV-14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+第一剧场,https://live.tvfix.org/live/cmc/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+湖南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1058_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-贵州卫视,http://121.17.146.188:50003/hls/51/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2faa9ea7151cb65680b20fb5c7a893f7&wsTime=1754698079&wsSession=053c4abd8e6b0e2e4f59d49b-175469087830656&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-defrzS.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -44,20 +44,17 @@ CCTV-14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
@@ -79,9 +76,7 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTA3OWNkZmE3NjBiOWZlMmZmN2VkN2QxOGFiZTM4OGIzJnVpZD0mdXVpZD05YzI1ZjBhZTlmYjcyZWZiMDdiYjU2YjljY2JmNmUzNC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU0NzE0MzEx/JYKTMPP360.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTZmZDZmODMwMzhhMmI2MzFmMWIxMjA3YzdlNTk1MzgzJnVpZD0mdXVpZD1mZWQwOGE0YjhjMTAxZTQxZGVkNjljM2Q1ZWJmNzMyNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU0NzQzMTI5/JYKTMPP360.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎮游戏频道,#genre#
@@ -90,7 +85,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 
 🈳无结果频道,#genre#
-第一剧场,url
 风云剧场,url
 怀旧剧场,url
 女性时尚,url
@@ -103,6 +97,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 重庆卫视,url
 甘肃卫视,url
 广西卫视,url
+贵州卫视,url
 河北卫视,url
 江苏卫视,url
 江西卫视,url
@@ -122,6 +117,8 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 龙祥电影,url
 东森超视,url
 少儿动画,url
+24H国漫热播,url
+浙江少儿,url
 七龙珠,url
 斗破苍穹玄幻剧,url
 蜡笔小新,url
