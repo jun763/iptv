@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-12 14:35:27,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-08-13 01:26:01,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -8,32 +8,13 @@
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=db28bdf71755003839
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=5e10f79a1755045332
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ca4453413a987aba755c4586248491d9&wsTime=1755005925&wsSession=053c4abd8e6b0e2e4f59d49b-175499676182896&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://36.105.100.208:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-knqPRY.m3u8
 
 🈳无结果频道,#genre#
-浙江卫视,url
-黑龙江卫视,url
-安徽卫视,url
 重庆卫视,url
-甘肃卫视,url
-广西卫视,url
-贵州卫视,url
-河北卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-内蒙古卫视,url
-宁夏卫视,url
-青海卫视,url
-山西卫视,url
-四川卫视,url
-深圳卫视,url
-天津卫视,url
-西藏卫视,url
-新疆卫视,url
-云南卫视,url
