@@ -1,57 +1,26 @@
 🕘️更新时间,#genre#
-2025-08-16 01:28:11,http://ygbh.site/php/bfgd.php?id=488
+2025-08-16 13:25:50,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://ygbh.site/php/bfgd.php?id=488
-CCTV-2,http://ygbh.site/php/bfgd.php?id=061
-CCTV-3,http://ygbh.site/php/bfgd.php?id=062
-CCTV-5,http://ygbh.site/php/bfgd.php?id=064
-CCTV-5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
-CCTV-7,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv7.flv
-CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8
-CCTV-8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
-CCTV-8,http://ygbh.site/php/bfgd.php?id=066
-CCTV-13,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv13.flv
-CCTV-13,http://ygbh.site/php/bfgd.php?id=067
-CCTV-15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv15.flv
-CCTV-16,http://sh.lnott.top:880/dx16.m3u8
-CCTV-17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
-CCTV-17,http://ygbh.site/php/bfgd.php?id=204
-CETV-1,http://58.17.48.228:808/hls/85/index.m3u8
-CETV-1,http://1b6467f415.iok.la:9931/tsfile/live/1125_1.m3u8
-CETV-1,http://ygbh.site/php/bfgd.php?id=135
-CETV-2,http://58.17.48.228:808/hls/86/index.m3u8
-CETV-2,http://ygbh.site/php/bfgd.php?id=492
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-湖北卫视,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8
-黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-甘肃卫视,http://123.130.84.106:8154/tsfile/live/0141_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e947d70ef1ca039679aac285504642c8&wsTime=1755297838&wsSession=053c4abd8e6b0e2e4f59d49b-175529557128558&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=01095b0ed9a3c1d12d604cdc500e8797&wsTime=1755341283&wsSession=053c4abd8e6b0e2e4f59d49b-175533881841845&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江西卫视,http://125.125.234.156:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-guvPR2.m3u8
-三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8
-云南卫视,http://125.125.234.156:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🈳无结果频道,#genre#
-CCTV-4,url
-CCTV-6,url
-CCTV-9,url
-CETV-4,url
+CCTV-5+,url
+CCTV-7,url
+CCTV-13,url
+CCTV-15,url
+CCTV-17,url
+安徽卫视,url
 重庆卫视,url
-贵州卫视,url
-河北卫视,url
-辽宁卫视,url
-宁夏卫视,url
-青海卫视,url
