@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2025-08-20 01:24:45,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+2025-08-20 13:28:54,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
-CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
+CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
 CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
@@ -19,16 +19,17 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+重庆卫视,http://123.129.70.178:9901/tsfile/live/0142_1.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=d81812911755694022
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=7797558f1755650883
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+甘肃卫视,http://39.150.96.141:65535/tsfile/live/0141_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e2d2b29227c7d353697e61a2fbcbdbe3&wsTime=1755651273&wsSession=053c4abd8e6b0e2e4f59d49b-175564117593459&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-rsBFR6.m3u8
-西藏卫视,http://36.105.100.208:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+西藏卫视,http://36.105.100.208:35455/itv/6603041244077933770.m3u8
+新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8
 
 🈳无结果频道,#genre#
-重庆卫视,url
+CCTV-5,url
