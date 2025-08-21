@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-21 01:25:55,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+2025-08-21 13:28:34,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
@@ -21,17 +21,11 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-海南卫视,http://36.105.100.208:35455/itv/5000000004000006211.m3u8
-河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8
+东南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1075_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e7b8c5667420d092d34c9cb5281555&wsTime=1755738379&wsSession=053c4abd8e6b0e2e4f59d49b-175572760164227&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-hjxDKV.m3u8
-天津卫视,http://125.42.151.98:9901/tsfile/live/0130_1.m3u8
-天津卫视,http://182.112.188.157:9901/tsfile/live/0135_1.m3u8
-新疆卫视,http://182.112.188.157:9901/tsfile/live/0110_1.m3u8
 
 🈳无结果频道,#genre#
 CCTV-5,url
