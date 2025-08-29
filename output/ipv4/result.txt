@@ -1,35 +1,39 @@
 🕘️更新时间,#genre#
-2025-08-29 01:25:24,http://106.52.196.79:80/TV/mui.php?id=cctv1
+2025-08-29 13:28:18,http://8.134.110.147:5300/?id=cctv1
 
 📺央视频道,#genre#
-CCTV-1,http://106.52.196.79:80/TV/mui.php?id=cctv1
+CCTV-1,http://8.134.110.147:5300/?id=cctv1
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+CCTV-2,http://8.134.110.147:5300/?id=cctv2
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-3,http://106.52.196.79:80/TV/mui.php?id=cctv3
-CCTV-4,http://222.129.32.255:4022/rtp/239.3.1.105:8092
+CCTV-3,http://8.134.110.147:5300/?id=cctv3
+CCTV-4,http://8.134.110.147:5300/?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
-CCTV-4,http://171.213.210.56:8188/rtp/239.93.1.105:5140
-CCTV-5,http://222.129.32.255:4022/rtp/239.3.1.173:8001
+CCTV-4,http://222.129.32.255:4022/rtp/239.3.1.105:8092
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
-CCTV-5,http://171.213.206.150:5555/rtp/239.93.42.37:5140
-CCTV-5,http://171.213.210.56:8188/rtp/239.93.42.37:5140
+CCTV-5,http://222.129.32.255:4022/rtp/239.3.1.173:8001
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-CCTV-6,http://106.52.196.79:80/TV/mui.php?id=cctv6
+CCTV-6,http://8.134.110.147:5300/?id=cctv6
+CCTV-7,http://8.134.110.147:5300/?id=cctv7
+CCTV-8,http://8.134.110.147:5300/?id=cctv8
 CCTV-8,http://222.129.32.255:4022/rtp/239.3.1.175:8001
-CCTV-8,http://171.213.210.56:8188/rtp/239.93.42.39:5140
-CCTV-8,http://171.213.206.150:5555/rtp/239.93.42.39:5140
-CCTV-9,http://106.52.196.79:80/TV/mui.php?id=cctv9
-CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+CCTV-9,http://8.134.110.147:5300/?id=cctv9
+CCTV-10,http://8.134.110.147:5300/?id=cctv10
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+CCTV-12,http://8.134.110.147:5300/?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+CCTV-13,http://8.134.110.147:5300/?id=cctv13
+CCTV-14,http://8.134.110.147:5300/?id=cctv14
+CCTV-15,http://8.134.110.147:5300/?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
-CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
+CCTV-16,http://222.129.32.255:4022/rtp/239.3.1.184:8001
 CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
-CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 CCTV-17,http://222.129.32.255:4022/rtp/239.3.1.151:8144
+CCTV-17,http://8.134.110.147:5300/?id=cctv17
+CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144
 CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
 CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 
@@ -38,19 +42,23 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+东方卫视,http://8.134.110.147:5300/?id=dfws
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=35f55a781756468351
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广西卫视,http://1.195.130.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://8.134.110.147:5300/?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江苏卫视,http://8.134.110.147:5300/?id=jsws
+江苏卫视,http://125.125.236.51:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
+江西卫视,http://8.134.110.147:5300/?id=jxws
 宁夏卫视,http://zqh2333.top:2222/rtp/239.93.24.247:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-四川卫视,http://1.195.130.102:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://125.125.236.51:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://8.134.110.147:5300/?id=sxws
+四川卫视,http://1b6467f415.iok.la:9931/tsfile/live/1072_1.m3u8
 
 🈳无结果频道,#genre#
 重庆卫视,url
-贵州卫视,url
