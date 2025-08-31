@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 13:23:59,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+2025-09-01 01:23:06,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 
 📺央视频道,#genre#
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
@@ -24,25 +24,15 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-贵州卫视,http://58.19.252.68:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c65a182716b2711f27d698607da96e10&wsTime=1756648325&wsSession=053c4abd8e6b0e2e4f59d49b-175663472720780&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://119.147.118.52/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=093ee3f4f6813939349e927982ba109d&wsTime=1756691885&wsSession=5b3b621d805a00d4db947f4c-175667792447177&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 宁夏卫视,http://zqh2333.top:2222/rtp/239.93.24.247:5140
-宁夏卫视,http://110.80.17.38:9999/tsfile/live/0016_1.m3u8
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://110.80.17.38:9999/tsfile/live/0118_1.m3u8
 
 🈳无结果频道,#genre#
-CCTV-6,url
-CCTV-7,url
-CCTV-9,url
-CCTV-10,url
-CCTV-14,url
-浙江卫视,url
 重庆卫视,url
-天津卫视,url
