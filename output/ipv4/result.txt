@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-09-05 13:26:31,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+2025-09-06 01:23:35,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 
 📺央视频道,#genre#
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
-CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
@@ -19,16 +18,15 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://14.29.45.99/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=11d4f6c35b19596b6b7d1205207ab801&wsTime=1757115870&wsSession=a024c7df890516cbe308eec4-175710992755311&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 宁夏卫视,http://zqh2333.top:2222/rtp/239.93.24.247:5140
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
-新疆卫视,http://219.146.95.58:59902/tsfile/live/0110_1.m3u8?txiptv
+陕西卫视,http://stream.snrtv.com/sxbc-star-bwJLN8.m3u8
 
 🈳无结果频道,#genre#
-香港卫视,url
 重庆卫视,url
