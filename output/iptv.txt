@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-09 13:27:40,http://110.42.63.51:51351/rtp/239.11.0.246:5140
+2025-09-10 01:20:48,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 
 📺央视频道,#genre#
 CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
@@ -9,12 +9,12 @@ CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-myFNVZ.m3u8
 
 🈳无结果频道,#genre#
-湖北卫视,url
 重庆卫视,url
