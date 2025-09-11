@@ -1,21 +1,20 @@
 🕘️更新时间,#genre#
-2025-09-11 01:23:23,http://110.42.63.51:51351/rtp/239.11.0.246:5140
+2025-09-11 13:25:26,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 
 📺央视频道,#genre#
 CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1757541490-5620a276d7883607c87d3c89ea59334a-0-530fb6c6f5306f18af88879b3f7eb0de
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-bcdkO8.m3u8
 
 🈳无结果频道,#genre#
+浙江卫视,url
 重庆卫视,url
