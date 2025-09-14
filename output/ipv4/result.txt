@@ -1,19 +1,36 @@
 🕘️更新时间,#genre#
-2025-09-14 13:23:01,http://110.42.63.51:51351/rtp/239.11.0.246:5140
+2025-09-15 01:23:22,http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-3,http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://124.165.251.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://110.42.63.51:51351/rtp/239.11.0.246:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1757887222-ceb17f89ee622722b0baa513a69c76a4-0-6bec14fea5b9274e63b4701a696d73f1
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-fxzMPV.m3u8
+三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 
 🈳无结果频道,#genre#
+CCTV-5,url
+CCTV-9,url
+CCTV-10,url
+CCTV-14,url
+湖北卫视,url
 重庆卫视,url
-三沙卫视,url
+甘肃卫视,url
+江西卫视,url
+宁夏卫视,url
+天津卫视,url
+西藏卫视,url
