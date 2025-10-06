@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-06 01:23:25,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
+2025-10-06 13:29:58,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📺央视频道,#genre#
-CCTV-1,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
@@ -12,16 +11,20 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://111.227.196.164:9901/tsfile/live/0142_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-hpuyIJ.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
 
 🈳无结果频道,#genre#
+CCTV-3,url
 CCTV-4,url
-浙江卫视,url
-四川卫视,url
+CCTV-5,url
+CCTV-6,url
+CCTV-8,url
+重庆卫视,url
+海南卫视,url
