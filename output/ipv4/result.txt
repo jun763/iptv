@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-08 01:23:22,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1759885323-1-pcs2a51fa0fdffd47cb83e36d1844ca863d-617608f360c0058457b46736fd1b9c28&yid=pcs2a51fa0fdffd47cb83e36d1844ca863d
+2025-10-08 13:26:34,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1759971690-1-pcs2d1aad06671a48d19ba95683c6329212-06d45c00b272c994e08260175c4e663b&yid=pcs2d1aad06671a48d19ba95683c6329212
 
 📺央视频道,#genre#
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1759885323-1-pcs2a51fa0fdffd47cb83e36d1844ca863d-617608f360c0058457b46736fd1b9c28&yid=pcs2a51fa0fdffd47cb83e36d1844ca863d
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1759971690-1-pcs2d1aad06671a48d19ba95683c6329212-06d45c00b272c994e08260175c4e663b&yid=pcs2d1aad06671a48d19ba95683c6329212
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
@@ -12,22 +12,13 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-甘肃卫视,http://110.80.17.38:9999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://58.245.255.38:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-dqHY47.m3u8
 
 🈳无结果频道,#genre#
 重庆卫视,url
-深圳卫视,url
