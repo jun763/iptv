@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 01:24:04,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760619711-1-pcs96643059f5174b48ab486ec863960de2-547d89f934a8553e18e4d9a36e3e9193&yid=pcs96643059f5174b48ab486ec863960de2
+2025-10-16 13:28:50,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760619711-1-pcs96643059f5174b48ab486ec863960de2-547d89f934a8553e18e4d9a36e3e9193&yid=pcs96643059f5174b48ab486ec863960de2
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760619711-1-pcs96643059f5174b48ab486ec863960de2-547d89f934a8553e18e4d9a36e3e9193&yid=pcs96643059f5174b48ab486ec863960de2
@@ -9,13 +9,13 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1760563562-0a3cff84a2d3a27ec83b65011f480e91-0-1b2d7340fd9cdf0ee9512f4b8459cb7a
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1760607754-d24db674a6a9e5694d3bc5c029fec6d4-0-f9e0916e3694bf315a5cb106c9a4ea71
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-gyBSY8.m3u8
 
 🈳无结果频道,#genre#
+CETV-1,url
 重庆卫视,url
