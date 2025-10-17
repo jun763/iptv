@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-17 13:28:00,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760706108-1-pcscd0ad99ba14c4379801a8986018c7bb0-085bc167d3c1a299d1ae219fcebda1c3&yid=pcscd0ad99ba14c4379801a8986018c7bb0
+2025-10-18 01:24:37,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760706108-1-pcscd0ad99ba14c4379801a8986018c7bb0-085bc167d3c1a299d1ae219fcebda1c3&yid=pcscd0ad99ba14c4379801a8986018c7bb0
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760749316-1-pcs3d91858ce01944f0abd9db074f9a30cf-7edaaea82f56cbef4b04a074219c329f&yid=pcs3d91858ce01944f0abd9db074f9a30cf
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
@@ -12,18 +10,20 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 内蒙古卫视,http://218.8.87.96:4000/rtp/229.58.190.183:5000
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-dzCJOX.m3u8
 
 🈳无结果频道,#genre#
 CCTV-1,url
 CCTV-2,url
 CCTV-3,url
+CCTV-4,url
 CCTV-5,url
+CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
@@ -31,6 +31,30 @@ CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-12,url
+CCTV-14,url
 CCTV-15,url
+CETV-1,url
+CETV-2,url
 浙江卫视,url
+湖南卫视,url
+湖北卫视,url
+黑龙江卫视,url
+安徽卫视,url
+重庆卫视,url
+东方卫视,url
+甘肃卫视,url
+广西卫视,url
+贵州卫视,url
+海南卫视,url
+河北卫视,url
+江苏卫视,url
+江西卫视,url
+辽宁卫视,url
 宁夏卫视,url
+青海卫视,url
+山西卫视,url
+四川卫视,url
+深圳卫视,url
+西藏卫视,url
+新疆卫视,url
+云南卫视,url
