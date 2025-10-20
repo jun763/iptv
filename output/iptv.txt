@@ -1,22 +1,21 @@
 🕘️更新时间,#genre#
-2025-10-20 13:28:36,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760965310-1-pcs7ff10a7108104e4aad66256dcaa92aec-a534ee99665ba4b5ce9febcd30e6f253&yid=pcs7ff10a7108104e4aad66256dcaa92aec
+2025-10-21 01:24:12,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761008510-1-pcs965c216adbb745548ae7b818d69ac1af-dae6ac45c9a022ef8620be4404c892f2&yid=pcs965c216adbb745548ae7b818d69ac1af
 
 📺央视频道,#genre#
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760965310-1-pcs7ff10a7108104e4aad66256dcaa92aec-a534ee99665ba4b5ce9febcd30e6f253&yid=pcs7ff10a7108104e4aad66256dcaa92aec
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761008510-1-pcs965c216adbb745548ae7b818d69ac1af-dae6ac45c9a022ef8620be4404c892f2&yid=pcs965c216adbb745548ae7b818d69ac1af
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761096126-f844a8cecb8c82b57452285d0ecbce88-0-187281c58f52c70d54638388a7d8e5fc
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1760997901-eea434ff2e1591fe654ef07a5f3bebe7-0-51beb25d553796a6b294a0f0e755434c
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-adwK13.m3u8
 
 🈳无结果频道,#genre#
-浙江卫视,url
 重庆卫视,url
