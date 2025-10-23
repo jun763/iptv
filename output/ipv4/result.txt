@@ -1,25 +1,38 @@
 🕘️更新时间,#genre#
-2025-10-23 01:22:03,https://httop.top/tv-cctv3
+2025-10-23 13:28:55,http://1.31.14.70:54321/hls/13/index.m3u8
 
 📺央视频道,#genre#
-CCTV-3,https://httop.top/tv-cctv3
-CCTV-6,https://httop.top/tv-cctv6
-CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
+CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CETV-1,https://httop.top/tv-cetv1
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
+广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
+贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
+河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-青海卫视,https://httop.top/tv-青海卫视
+江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
+宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
+青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-exS134.m3u8
-新疆卫视,https://httop.top/tv-新疆卫视
+陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
+深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
+西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
+新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
+云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 🈳无结果频道,#genre#
-CCTV-4,url
+CCTV-3,url
+CCTV-16,url
+CETV-1,url
 重庆卫视,url
+山西卫视,url
