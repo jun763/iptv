@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-31 00:26:08,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+2025-10-31 12:17:24,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761948000-1-932952a2c79864268c6c100f542fe20c-d099982555e99d3591b4876804f920dd&yid=932952a2c79864268c6c100f542fe20c
 
 📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761948000-1-932952a2c79864268c6c100f542fe20c-d099982555e99d3591b4876804f920dd&yid=932952a2c79864268c6c100f542fe20c
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
