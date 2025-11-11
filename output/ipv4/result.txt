@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-11 00:16:07,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-11 12:18:30,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762866000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0d8e9828cc3dc0e0ec54e03afc976a20&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-10,http://220.170.241.204:9901/tsfile/live/0010_1.m3u8
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
@@ -18,7 +17,6 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-mzQS02.m3u8
 四川卫视,http://171.116.216.113:10010/rtp/226.0.1.250:2126
 
 🈳无结果频道,#genre#
