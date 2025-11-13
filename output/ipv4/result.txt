@@ -1,20 +1,16 @@
 🕘️更新时间,#genre#
-2025-11-13 00:16:33,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-13 12:18:39,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762992000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e2421ea8f58d20ef2e521a9db411f471&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763038800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-93e704343241dbeba8d5126889a71bd8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-7,http://111.221.137.155:44330/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8
-CCTV-10,http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763082000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1d303fa32cd29c2616d2e5e75183abb6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1762985135-7ef84278230d2fb77d387bd189a5f7fb-0-7089345e62bb4c6041424870c9910bef
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1763025995-e758cfe9cc749d2c58663e3cd7955296-0-c3170041df87475388ae8982346738ee
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://183.184.47.145:8001/rtp/226.0.1.246:2125
 湖南卫视,http://171.116.216.113:10010/rtp/226.0.1.246:2125
@@ -23,7 +19,6 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-fgjpP7.m3u8
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
 四川卫视,http://171.116.216.113:10010/rtp/226.0.1.250:2126
 
