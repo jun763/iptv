@@ -1,28 +1,28 @@
 🕘️更新时间,#genre#
-2025-11-16 12:15:49,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-17 00:15:06,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
 
 📺央视频道,#genre#
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=lg
+CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=gq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=lg
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=lg
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=lg
+CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=lg
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
@@ -44,11 +44,3 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
 四川卫视,http://171.116.216.113:10010/rtp/226.0.1.250:2126
-
-🈳无结果频道,#genre#
-浙江卫视,url
-黑龙江卫视,url
-重庆卫视,url
-江苏卫视,url
-内蒙古卫视,url
-云南卫视,url
