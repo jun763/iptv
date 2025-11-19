@@ -1,21 +1,12 @@
 🕘️更新时间,#genre#
-2025-11-19 12:20:01,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-20 00:16:35,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763643600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e94aaee338485c91f7bf545b6c1e18c8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
-CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=lg
-CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763643600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e94aaee338485c91f7bf545b6c1e18c8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763600400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-18aa55a038ad44fcad4d53df58b928b4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
@@ -26,49 +17,19 @@ CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
-CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://183.184.47.145:8001/rtp/226.0.1.246:2125
-湖南卫视,http://171.116.216.113:10010/rtp/226.0.1.246:2125
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
-四川卫视,http://171.116.216.113:10010/rtp/226.0.1.250:2126
 
 🈳无结果频道,#genre#
-CCTV-3,url
-CCTV-5,url
-CCTV-15,url
-CCTV-16,url
-CETV-2,url
-CETV-4,url
-浙江卫视,url
-湖北卫视,url
-黑龙江卫视,url
-安徽卫视,url
-重庆卫视,url
-东方卫视,url
-甘肃卫视,url
-广西卫视,url
-贵州卫视,url
-海南卫视,url
-河北卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-内蒙古卫视,url
-宁夏卫视,url
-青海卫视,url
-山西卫视,url
-陕西卫视,url
-深圳卫视,url
-天津卫视,url
-西藏卫视,url
-新疆卫视,url
-云南卫视,url
+CCTV-1,url
+CCTV-2,url
+CCTV-7,url
