@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 12:15:41,http://bxtv.3a.ink/migu.php?id=cctv4
+2025-11-24 00:14:56,http://bxtv.3a.ink/migu.php?id=cctv4
 
 📺央视频道,#genre#
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
@@ -26,3 +26,6 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
+
+🈳无结果频道,#genre#
+CCTV-16,url
