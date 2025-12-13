@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-13 12:16:22,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2025-12-14 00:15:07,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 
 📺央视频道,#genre#
 CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765630800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4d5487f673185c233470ddcb4c451a5d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765674000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b6944fdfa4af60a2da0d2337246b1e54&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
@@ -18,16 +16,18 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1765619446-d3be303a5d083029e288830c9935117a-0-6fb1222537c81ed4be68c6833aa6facb
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+海南卫视,http://124.64.223.204:8686/rtp/239.3.1.45:8304
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-青海卫视,http://115.48.161.66:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-eityG7.m3u8
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
+三沙卫视,http://124.64.223.204:8686/rtp/239.3.1.155:4120
 
 🈳无结果频道,#genre#
 重庆卫视,url
-山西卫视,url
+内蒙古卫视,url
+青海卫视,url
