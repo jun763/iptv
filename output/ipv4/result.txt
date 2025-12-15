@@ -1,31 +1,28 @@
 🕘️更新时间,#genre#
-2025-12-15 00:15:40,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-15 12:21:48,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765803600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7eafbf7738fc17bf15a130b25b3a811e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765760400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-be399f4302002d73e2b2f99bc825afe8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765846800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-000558468f22653ec6f9694fdea225ac&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
-CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1765749907-997f24d5aa46687caaf3c795aad72d8a-0-846c6b8a7149d5ea7859dba04b444b33
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
-湖南卫视,http://116.237.37.244:8888/rtp/233.18.204.227:5140
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
+湖南卫视,http://116.237.37.244:8888/rtp/233.18.204.227:5140
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://116.237.37.244:8888/rtp/239.45.3.123:5140
@@ -34,12 +31,10 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-intvBC.m3u8
-四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 四川卫视,http://116.237.37.244:8888/rtp/239.45.3.48:5140
 四川卫视,http://116.237.37.244:8888/rtp/233.18.204.225:5140
 四川卫视,http://171.83.103.119:9999/rtp/239.69.1.28:9808
-四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
+四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 三沙卫视,http://124.64.223.204:8686/rtp/239.3.1.155:4120
 
 🈳无结果频道,#genre#
