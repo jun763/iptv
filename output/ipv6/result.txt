@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-29 12:32:25,url
+2026-01-30 00:23:27,url
 
 📺央视频道,#genre#
 
@@ -19,7 +19,6 @@ CCTV-10,url
 CCTV-11,url
 CCTV-12,url
 CCTV-14,url
-CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 CETV-1,url
@@ -52,4 +51,5 @@ CETV-1,url
 深圳卫视,url
 三沙卫视,url
 天津卫视,url
+新疆卫视,url
 云南卫视,url
