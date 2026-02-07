@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-07 00:19:15,url
+2026-02-07 12:21:03,url
 
 📺央视频道,#genre#
 
@@ -16,7 +16,6 @@ CCTV-7,url
 CCTV-8,url
 CCTV-10,url
 CCTV-11,url
-CCTV-13,url
 CCTV-16,url
 CETV-1,url
 CETV-2,url
