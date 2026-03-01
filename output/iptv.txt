@@ -1,31 +1,26 @@
 🕘️更新时间,#genre#
-2026-03-01 00:18:18,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+2026-03-01 12:20:50,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 📡卫视频道,#genre#
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1772316339-20303af130be114081d21709fdf0c065-0-52bd2ae407d57a12ade145d92bb30a45
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1772356579&sign=dd5ef5e2d8d5845593749369c5eea259
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e7c17b071772324340
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=c3714b8b1772366819
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://14.215.41.39/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=62189e870c95404b79a5488a574ee295&wsTime=1772328925&wsSession=fcff409e4907d1ee03ae0d29-177231638243482&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqrR0.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-sBJTX2.m3u8
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1772320046-8-8-84fcac83a366b29a72035ecec27aa203&aliyun_uuid=e7a48676-7ef2-45db-9005-a168257d151a
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1772363346-0-0-edf4a9ddda5c1b2f9cf65157735c0c1c&aliyun_uuid=eac165b9-efd9-405a-bbeb-e458444be982
 
 🈳无结果频道,#genre#
 重庆卫视,url
-江西卫视,url
