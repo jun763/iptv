@@ -1,30 +1,27 @@
 🕘️更新时间,#genre#
-2026-03-08 00:18:45,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+2026-03-08 12:20:38,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773018000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-566da6434e766d7ccdfc9bd3ed30f55c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1773018000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-566da6434e766d7ccdfc9bd3ed30f55c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 📡卫视频道,#genre#
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1772921112-384a88219a7cf2b299a7142f54600cf6-0-d271d078ff8b57a3d350261ea43db602
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=f6e284231772927579
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=8f7815c81772972373
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://14.29.45.99/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9c0da95003253b52fa318467bbb94ee3&wsTime=1772932995&wsSession=b9718051454b46e937c04504-177292115882788&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://14.29.45.99/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ac4a6f3bf495b964b41eb10a4f7cf084&wsTime=1772978050&wsSession=b9718051454b46e937c04504-177296464363725&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-wxJM89.m3u8
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1772924802-2-2-db1a3cc68c3eac3279546755524eeb64&aliyun_uuid=f0eb7c84-0543-4c45-9e3f-acbc79d25f96
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1772968371-5-5-df3731bce2b054a6dcbee2d66d91b351&aliyun_uuid=1168de8d-868c-49c2-b33d-dd5273508902
 
 🈳无结果频道,#genre#
-CCTV-4,url
 重庆卫视,url
-江西卫视,url
+深圳卫视,url
