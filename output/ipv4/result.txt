@@ -1,48 +1,21 @@
 🕘️更新时间,#genre#
-2026-04-13 01:32:22,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-04-13 14:13:58,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776132000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15ea62f4c2a41ee087e77fa59212b758&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1776132000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15ea62f4c2a41ee087e77fa59212b758&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1776031542-3bb394a5abdf9199f0daf9f985c00eb8-0-d2e95a67d413423715a1228ddaa6aa2c
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1776076132-3b3b84d22be99b782f89c94cfdc6c919-0-003148db995526129e29b7cff2c25e4e
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://113.96.132.85/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3013319b993537f9a0f7dbcb04dfeedb&wsTime=1776045919&wsSession=4b284e559fd8e3578d2a0707-177603159086477&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168290946500470439
+河南卫视,http://113.96.132.85/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=074e6d57966a439cd865b46313c26898&wsTime=1776090490&wsSession=4b284e559fd8e3578d2a0707-177607836007167&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168290946500470439
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-mEJKZ7.m3u8
-深圳卫视,http://123.129.70.178:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🈳无结果频道,#genre#
-CCTV-1,url
-CCTV-2,url
-CCTV-3,url
-CCTV-5,url
-CCTV-6,url
-CCTV-7,url
-CCTV-8,url
-CCTV-9,url
-CCTV-11,url
-CCTV-12,url
-CCTV-13,url
-CCTV-14,url
-CCTV-15,url
-广东卫视,url
-湖北卫视,url
-黑龙江卫视,url
-安徽卫视,url
 重庆卫视,url
-东方卫视,url
-广西卫视,url
-贵州卫视,url
-河北卫视,url
-吉林卫视,url
-江苏卫视,url
 江西卫视,url
-辽宁卫视,url
-四川卫视,url
-云南卫视,url
