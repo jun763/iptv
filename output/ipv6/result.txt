@@ -1,25 +1,16 @@
 🕘️更新时间,#genre#
-2026-05-09 01:53:00,url
+2026-05-09 13:52:48,url
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 🈳无结果频道,#genre#
-CCTV-1,url
 CCTV-4,url
-CCTV-6,url
-CCTV-7,url
 CCTV-10,url
-CCTV-14,url
-广东卫视,url
 浙江卫视,url
 湖南卫视,url
 北京卫视,url
 东南卫视,url
-河北卫视,url
 河南卫视,url
-吉林卫视,url
 山东卫视,url
-四川卫视,url
-云南卫视,url
