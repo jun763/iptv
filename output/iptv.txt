@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-13 14:59:44,http://74.91.26.218:82/live/cctv3hd.m3u8
+2026-05-14 02:01:33,http://74.91.26.218:82/live/cctv3hd.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778724000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-740677cb16e50694c3e83082c3d769f8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778763600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1bc4a4fcaf520914e0b9a7025e6639c2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 
 📡卫视频道,#genre#
@@ -15,8 +14,11 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://113.96.132.21/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4c81015ac1540a613ab66f268c89a114&wsTime=1778681857&wsSession=176c4a7574da17521cff758e-177867041985315&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652905245675
+河南卫视,http://113.96.132.24/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a6abc112d019bbf052a41f16ba1b5e76&wsTime=1778721034&wsSession=d6fea422af77e61e574c71e6-177871001206823&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295647926544040
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-jnzJNV.m3u8
 
 🈳无结果频道,#genre#
 重庆卫视,url
+江西卫视,url
+深圳卫视,url
