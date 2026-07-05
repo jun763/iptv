@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-05 01:53:15,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783256400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7450f9ca921dd1a567646a3776458ed1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-07-05 14:27:02,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783256400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7450f9ca921dd1a567646a3776458ed1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783256400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7450f9ca921dd1a567646a3776458ed1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783216800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-806817594a16dc9e8e075207a512d62a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1783303200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f053dc8521e2376bf8775fbfa436057b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-13,http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -13,6 +14,7 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+天津卫视,http://125.42.151.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🈳无结果频道,#genre#
 重庆卫视,url
