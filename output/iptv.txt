@@ -1,47 +1,30 @@
 🕘️更新时间,#genre#
-2026-08-22 13:17:38,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-23 01:15:36,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787446800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-315df886c85218cf62820b121831494e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
-CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://113.9.214.47:9003/hls/3/index.m3u8
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787446800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-315df886c85218cf62820b121831494e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787403600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-941eae0a1b2da923210fb18780c61910&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787490000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0a743dacf05af7d7e1518883d2787c6f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
-北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://183.94.146.79:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
-甘肃卫视,http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
-吉林卫视,http://111.8.224.6:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
-内蒙古卫视,http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
-新疆卫视,http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
-云南卫视,http://120.198.86.186:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-
-🈳无结果频道,#genre#
-CCTV-2,url
-CCTV-5,url
-CCTV-5+,url
-CCTV-6,url
-CCTV-13,url
-CCTV-17,url
-安徽卫视,url
