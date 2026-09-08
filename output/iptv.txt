@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-08 17:04:34,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788926400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6dd536f60c028a7f59ec2f1c09564b2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-09-09 02:47:43,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788962400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b7cd911a076e1a246ec5e2f15c6ecfcd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788962400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b7cd911a076e1a246ec5e2f15c6ecfcd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788926400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6dd536f60c028a7f59ec2f1c09564b2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -14,19 +15,3 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-
-🈳无结果频道,#genre#
-CCTV-2,url
-CCTV-3,url
-CCTV-5,url
-CCTV-8,url
-CCTV-9,url
-CCTV-10,url
-CCTV-11,url
-CCTV-12,url
-CCTV-13,url
-CCTV-14,url
-湖北卫视,url
-江苏卫视,url
-辽宁卫视,url
-深圳卫视,url
